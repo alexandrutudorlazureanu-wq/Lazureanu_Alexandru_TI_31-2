@@ -1,0 +1,15 @@
+C:\Users\atudo\Desktop\Laborator_sisteme_3\Laborator_sisteme_3\bin\Debug\net10.0\Laborator_sisteme_3.exe
+C:\Users\atudo\Desktop\Laborator_sisteme_3\Laborator_sisteme_3\bin\Debug\net10.0\Laborator_sisteme_3.deps.json
+C:\Users\atudo\Desktop\Laborator_sisteme_3\Laborator_sisteme_3\bin\Debug\net10.0\Laborator_sisteme_3.runtimeconfig.json
+C:\Users\atudo\Desktop\Laborator_sisteme_3\Laborator_sisteme_3\bin\Debug\net10.0\Laborator_sisteme_3.dll
+C:\Users\atudo\Desktop\Laborator_sisteme_3\Laborator_sisteme_3\bin\Debug\net10.0\Laborator_sisteme_3.pdb
+C:\Users\atudo\Desktop\Laborator_sisteme_3\Laborator_sisteme_3\obj\Debug\net10.0\Laborator_sisteme_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atudo\Desktop\Laborator_sisteme_3\Laborator_sisteme_3\obj\Debug\net10.0\Laborator_sisteme_3.AssemblyInfoInputs.cache
+C:\Users\atudo\Desktop\Laborator_sisteme_3\Laborator_sisteme_3\obj\Debug\net10.0\Laborator_sisteme_3.AssemblyInfo.cs
+C:\Users\atudo\Desktop\Laborator_sisteme_3\Laborator_sisteme_3\obj\Debug\net10.0\Laborator_sisteme_3.csproj.CoreCompileInputs.cache
+C:\Users\atudo\Desktop\Laborator_sisteme_3\Laborator_sisteme_3\obj\Debug\net10.0\Laborator_sisteme_3.dll
+C:\Users\atudo\Desktop\Laborator_sisteme_3\Laborator_sisteme_3\obj\Debug\net10.0\refint\Laborator_sisteme_3.dll
+C:\Users\atudo\Desktop\Laborator_sisteme_3\Laborator_sisteme_3\obj\Debug\net10.0\Laborator_sisteme_3.pdb
+C:\Users\atudo\Desktop\Laborator_sisteme_3\Laborator_sisteme_3\obj\Debug\net10.0\Laborator_sisteme_3.genruntimeconfig.cache
+C:\Users\atudo\Desktop\Laborator_sisteme_3\Laborator_sisteme_3\obj\Debug\net10.0\ref\Laborator_sisteme_3.dll
+C:\Users\atudo\Desktop\Laborator_sisteme_3\Laborator_sisteme_3\obj\Debug\net10.0\Laborato.7829219D.Up2Date
